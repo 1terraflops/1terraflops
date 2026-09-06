@@ -5,16 +5,6 @@
   I work professionally as a software developer and enjoy exploring new technologies and building projects in my free time.
 </p>
 
-<p>
-  I enjoy working across the entire stack - from creating user interfaces and building APIs to designing databases and working with deployment tools.
-</p>
-
-<h3 align="left">🌱 Currently Exploring</h3>
-
-<p>
-  I'm constantly expanding my knowledge by experimenting with new languages, technologies and architectures.
-</p>
-
 <h3 align="left">🛠️ Languages and Tools</h3>
 
 | *Category*        | *Tools*                                                                                                                                                                           |
